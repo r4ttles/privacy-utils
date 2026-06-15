@@ -1,27 +1,35 @@
-# Privacy Utilities
+# Privacy Toolkit
 
 ## Overview
-A collection of scripts and tools designed to help individuals protect their digital footprint, obfuscate metadata, and maintain anonymity against surveillance overreach.
+Privacy Toolkit is a comprehensive suite of utilities designed to obliterate digital footprints, enforce strict confidentiality, and maintain operational anonymity in an era of pervasive surveillance. This repository empowers individuals and organizations to reclaim control over their data, communications, and online identities.
 
-**Status**: Active Development
+All tools are intended for **legitimate privacy protection**, **anti-censorship research**, and **defensive counter-surveillance**.
 
-## Included Categories
--   **Metadata Scrubbers**: Tools to strip EXIF data from images and documents.
--   **Communication Security**: Guides and configs for E2EE messaging and Tor hidden services.
--   **Identity Management**: Scripts for generating disposable identities and managing burner accounts.
--   **Network Anonymity**: Configuration files for proxy chaining and DNS leakage prevention.
+## Scope of Research
+The capabilities provided here cover the full spectrum of digital privacy, including but not limited to:
+-   **Metadata Elimination:** Automated scrubbing of EXIF, XMP, and hidden tags from media and documents.
+-   **Secure Communications:** Configuration guides for End-to-End Encrypted (E2EE) messaging, PGP workflows, and Tor hidden services.
+-   **Identity Management:** Scripts for generating disposable identities, burner accounts, and anonymous credentials.
+-   **Network Obfuscation:** Tools for proxy chaining, DNS leak prevention, traffic tunneling, and IP masking.
+-   **Data Sanitization:** Secure file deletion and drive wiping procedures.
+-   **Browser Hardening:** Configurations for fingerprinting resistance and tracker blocking.
+
+Future updates will introduce advanced steganography tools and decentralized identity solutions.
 
 ## Philosophy
-Privacy is a fundamental right. These tools are built to return control to the user and resist the data collection practices of governments and corporations.
+Privacy is a fundamental human right, not a privilege. These tools are built on the principle that users must have absolute ownership over their data and the ability to communicate without fear of interception or profiling.
 
-## Legal Disclaimer
-These tools are intended for legitimate privacy protection and ethical use. They must not be used to facilitate illegal activities. Users are responsible for complying with all local laws.
+## Usage
+Navigate to the relevant directory (e.g., `/media`, `/network`, `/identity`) for deployment instructions. Always test tools in isolated environments before applying them to critical workflows.
 
-## Installation
-Most tools require standard Python 3.x or Bash environments. Refer to individual script documentation for setup.
+## Ethical Notice
+These tools are powerful and can be misused. They are intended **only** for legitimate privacy protection and ethical use. Users are solely responsible for complying with all local laws regarding encryption, anonymity, and digital identity. The author assumes no liability for misuse.
 
 ## License Note
-**Restricted Educational License applies.** View and personal use permitted. **No redistribution, resale, or forking allowed.** See `LICENSE.md` for full details.
+**Restricted Educational License applies.** 
+Viewing and personal educational use are permitted. 
+**Commercial resale, rebranding, or use for illegal activities is strictly prohibited.** 
+See `LICENSE` for full details.
 
 ---
 *Last Updated: June 2026*
